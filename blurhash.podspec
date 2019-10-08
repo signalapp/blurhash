@@ -129,4 +129,6 @@ A pure-Swift library for generating and decoding very compact image placeholders
   # spec.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
   # spec.dependency "JSONKit", "~> 1.4"
 
+  spec.deprecated = true
+
 end
